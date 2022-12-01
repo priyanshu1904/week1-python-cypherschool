@@ -1,0 +1,1 @@
+print(r'line a \n line b') # r lagane se \n aab ek string ke jaisa kaam karega
